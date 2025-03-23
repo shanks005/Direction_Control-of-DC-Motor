@@ -9,4 +9,4 @@ During my tenure in the **Team Karting Manipal Taskphase**, I was assigned the t
 
 ## Circuit Diagram (Preview)
 
-![image_alt]()
+![image_alt](https://github.com/shanks005/Direction_Control-of-DC-Motor/blob/7865d1798b67d97ffda88e636406868d3b4e9d8b/H-Bridge_DC_Motor_Control.png)
